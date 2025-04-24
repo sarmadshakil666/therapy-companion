@@ -28,7 +28,7 @@
 ## 🚀 Live Demo
 
 🧪 Try it now:  
-👉 [https://huggingface.co/spaces/sarmadshakil666/Therapy_Companion](https://huggingface.co/spaces/sarmadshakil666/Therapy_Companion)
+👉 (https://huggingface.co/spaces/sarmadshakil666/Therapy_companion1)
 
 ---
 
