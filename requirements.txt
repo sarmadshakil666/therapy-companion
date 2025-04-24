@@ -1,0 +1,8 @@
+gradio
+huggingface_hub
+gTTS
+pydub
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
