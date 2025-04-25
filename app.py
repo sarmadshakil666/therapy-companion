@@ -118,8 +118,8 @@ demo = gr.Interface(
         gr.Audio(type="filepath", label="Therapy Response (Audio)"),
         gr.State(),
     ],
-    title="🧠 Therapy Companion (Voice)",
-    description="Speak with an emotionally intelligent LLM. Responses are now read out to you!"
+    title="🧠 Mysty the therapist",
+    description="Hi, my name is Mysty. You can open up to me about anything. Don't worry, we will fix it together :)."
 )
 
 if __name__ == "__main__":
